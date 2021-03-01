@@ -13,3 +13,5 @@ enigma plugboards/II.pb reflectors/IV.rf rotors/VI.rot rotors/II.rot rotors/II.r
 ```
 
 Play around with the files :) You can include as many or as few rotors as you like, and you can make your own data files too!
+
+Also, check out the header files ot see how the model is designed
