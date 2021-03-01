@@ -2,7 +2,7 @@
 
 C++ project to build an Engima Machine for the command line
 
-## To use
+### Usage
 
 Download the code and compile the executable accoring to the makefile instructions. 
 
